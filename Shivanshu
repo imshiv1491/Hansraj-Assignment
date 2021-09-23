@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Document</title>
+</head>
+<body>
+    <html lang="en" itemscope="" itemtype="http://schema.org/WebPage"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <title itemprop="name">Hansraj College</title>
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self'  https://fonts.googleapis.com/ https://fonts.gstatic.com/ https://cdnjs.cloudflare.com https://ajax.googleapis.com/ https://maxcdn.bootstrapcdn.com/ https://ckeditor.com/ https://www.google-analytics.com/ https://cdn.onesignal.com/ https://onesignal.com/ https://img.onesignal.com https://hansrajcollege.onesignal.com https://hansrajcollege.os.tc/ https://www.hansrajcollege.ac.in/ https://hansrajcollege.ac.in/ http://www.hansrajcollege.ac.in/ https://www.youtube.com/ http://hansrajcollege.ac.in/ https://www.google.com/ https://www.gstatic.com/ https://docs.google.com/  https://code.jquery.com/ 'unsafe-inline' 'unsafe-eval' ">
+    
+        <meta name="description" itemprop="description" content="Hansraj College is a constituent college of the University of Delhi and a premier institution of the DAV Managing Committee - the largest non-government educational organization of the country. After partition DAV Managing Committee decided to set up its institutions in India and the first to be set up was DAV College Ambala .">
+    
+        <!-- <link href='css/animation.css' rel='stylesheet' type='text/css'> -->
+        <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+        <link href="https://www.hansrajcollege.ac.in/assets/front/css/bootstrap.min.css?v=1.1" rel="stylesheet" type="text/css">
+        <link href="https://www.hansrajcollege.ac.in/assets/front/css/owl.carousel.css" rel="stylesheet" type="text/css">
+        <link href="https://www.hansrajcollege.ac.in/assets/front/css/style.css?15252" rel="stylesheet" type="text/css">
+        <link href="https://www.hansrajcollege.ac.in/assets/front/css/media.css" rel="stylesheet" type="text/css">
+        <link href="https://www.hansrajcollege.ac.in/assets/light-gallery/css/lightgallery.css" rel="stylesheet" type="text/css">
+        <link href="https://www.hansrajcollege.ac.in/assets/front/css/no-more-tables.css" rel="stylesheet" type="text/css">
+        <link href="https://www.hansrajcollege.ac.in/assets/front/css/custom.css" rel="stylesheet" type="text/css">
+        <link href="https://www.hansrajcollege.ac.in/assets/fontawesome/css/all.css" rel="stylesheet" type="text/css">
+        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
+        <link href="" rel="stylesheet" type="text/css">
+        
+        <style>
+            li.dropdown:hover > ul{
+                display: block;
+            }
+            li.dropdown:hover ul li:hover > ul{
+                display: block;
+            }
+            .dropdown-menu{
+                top: 95%;
+            }
+            .album-label {
+              position: absolute;
+              bottom: -3px;
+              left: 0;
+              color:#fff;
+              width: 100%;
+              text-align: left;
+              padding: 5px 16px;
+              background: #1d1d1d;
+            }
+    
+        .owl-carousel li a{
+            height: 180px;
+            background-color: #e5e5e5;
+        }
+        .owl-carousel li a img{
+            height: unset;
+        }
+        .footer-links{
+            list-style-type: none;
+            padding: 0;
+        }
+        .footer-links li{
+            display: inline-block;
+        }
+        .footer-links li a{
+            color: #fff;
+        }
+        .container{
+          max-width: unset;
+          width: 100%;
+        }
+        @media screen and (min-width: 600px) {
+          .container{
+            width: 85%;
+          }
+        }
+        </style>
+    <link rel="stylesheet" href="https://www.hansrajcollege.ac.in/assets/front/css/custom.css?1632391948">
+    
+     
+   
+    <link rel="stylesheet" href="https://onesignal.com/sdks/OneSignalSDKStyles.css?v=2"></head>
+    <body>
+    
+      <div class="modal fade" id="logoutModalHeader" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="static">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header d-none">
+            <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">×</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <h4><center>Are you sure you want to logout ? </center></h4>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-dismiss="modal">No</button>
+            <a href="https://www.hansrajcollege.ac.in/?logout=true" class="btn btn-success">Yes</a>
+          </div>
+        </div>
+      </div>
+    </div>
+        <header>
+            <!--Header Top Start-->
+            <div class="topheader">
+                <div class="container">
+    <a  title="IGNOU">IGNOU</a> |
+                <a  title="Home">Non-Teaching Posts</a> |
+                <a  title="Home">Open Book Examinations 2021</a> |
+                    <a  title="Home">Home</a> |
+                                      <a title="Login">Login</a> |
+                                    <a  title="Login">Contact Us</a>
+                </div>
+            </div>
+            <!--Header Top End-->
+    
+            <!-- Header Middle Start-->
+            <div class="middleheader">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-4 col-sm-4 col-12" style="display: flex;align-items: center;">
+                            <a  title="Hansraj College" class="logo" style="margin: auto;">
+                                <img src="https://www.hansrajcollege.ac.in/assets/front/images/logo_hindi_new.png" alt="Hansraj College">
+                            </a>
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-7 text-center d-none d-lg-block d-xl-block">
+                            <h1>Hansraj College</h1>
+                              <p>University of Delhi</p>
+                            <p>NAAC Grade A+ with CGPA 3.62</p>
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-12 text-right d-none d-lg-block d-xl-block">
+                          <div class="head-right-logo">
+                          <a ><img class="h-logo-1" src="" alt="Hansraj College"></a>
+                            <img class="h-logo-2" src="https://www.hansrajcollege.ac.in/assets/front/images/logo2.png" alt="Hansraj College">
+                        </div>
+                        </div>
+                        <div class="col-2"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- Header Middle End -->
+            <!-- Navigation Start-->
+            <nav class="navbar navbar-expand-lg">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="container">
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav" url-title="about">
+                            <li class="nav-item active dropdown">
+                                
+                                <ul class="dropdown-menu">
+                                    <li><a tabindex="-1" href="">The College</a></li>
+                                    <li><a tabindex="-1" href="">Historical Perspective</a></li>
+                                    <li><a tabindex="-1" href="">Chairman's Message</a></li>
+                                    <li><a tabindex="-1" href="">Principal's Desk</a></li>
+                                    <li><a tabindex="-1" href="">Mission</a></li>
+                                    
+                                    
+                                    <li><a tabindex="-1" href="">Staff Association</a></li>
+                                    <li><a tabindex="-1" href="">Former Colleagues</a></li>
+                                    
+                                    <!--<li><a tabindex="-1" href="#">CSS</a></li>
+                                    <li class="dropdown-submenu">
+                                        <a class="test" tabindex="-1" href="#">New dropdown <span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a tabindex="-1" href="#">2nd level dropdown</a></li>
+                                            <li><a tabindex="-1" href="#">2nd level dropdown</a></li>
+                                            <li class="dropdown-submenu">
+                                            <a class="test" href="#">Another dropdown <span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                              <li><a href="#">3rd level dropdown</a></li>
+                                              <li><a href="#">3rd level dropdown</a></li>
+                                            </ul>
+                                            </li>
+                                        </ul>
+                                    </li>-->
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="">Facilities</a>
+                            </li>
+    
+                            <li class="nav-item">
+                               <a class="nav-link" href="">Administration</a>
+                            </li>
+                                        <li class="nav-item">
+                               <a class="nav-link" href="">Admissions</a>
+                            </li>
+                            <li class="nav-item active dropdown">
+    
+                                    <a class="nav-link dropdown-toggle" href="">Academics</a>
+                                    <ul class="dropdown-menu">
+                                      <li class="dropdown-submenu">
+                                         <!--<a class="test" tabindex="-1" href="#">Courses <span class="caret"></span></a>-->
+                                         <ul class="dropdown-menu">
+                                                                                      <li><a href="#">Science                                               <span class="caret"></span>
+                                                                                              </a>
+                                                <ul class="dropdown-menu"><li><a href="">Anthropology (Hons) <ul
+                                              </li>
+                                                                                          <li><a href="#">Arts &amp; Commerce                                               <span class="caret"></span>
+                                                                                              </a>
+                                                <ul class="dropdown-menu"><li><a href="http://www.hansrajcollege.ac.in/academics/courses/baprog.php">B. A. Prog.</a></li><li><a href="https://www.hansrajcollege.ac.in/department/8/course">B. Com (Hons)</a></li><li><a href="https://www.hansrajcollege.ac.in/department/9/course">Economics (Hons)</a></li><li><a href="https://www.hansrajcollege.ac.in/department/10/course">English (Hons)</a></li><li><a href="https://www.hansrajcollege.ac.in/department/11/course">Hindi (Hons)</a></li><li><a href="https://www.hansrajcollege.ac.in/department/12/course">History (Hons)</a></li><li><a href="https://www.hansrajcollege.ac.in/department/14/course">Sanskrit (Hons)</a></li><li><a href="">M.Com</a></li><li><a href="">MA (Hindi)</a></li><li><a href="">MA (History)</a></li><li><a href="">MA (Sanskrit)</a></li><li><a href="">MA (English)</a></li><li><a href="">MSc (Anthropology)</a></li><li><a href="">MSc (Botany)</a></li><li><a href="">MSc (Chemistry)</a></li><li><a href="">MSc (Mathematics)</a></li><li><a href="">MSc (Geology)</a></li><li><a href="">MSc (Zoology)</a></li><li><a href="">MSc (Physics)</a></li><li><a href="">MSc (Operational Research)</a></li><li><a href="https://www.hansrajcollege.ac.in/department/13/course">Philosophy (Prog)</a></li><li><a href="https://www.hansrajcollege.ac.in/department/13/course">Philosophy (Hons)</a></li></ul>
+                                              </li>
+                                              
+                                              
+                                            <li class="dropdown-submenu"><a href="#">Add-on Courses <span class="caret"></span></a>
+                                             <ul class="dropdown-menu">
+                                               <li><a href="">Films &amp; Media</a></li>
+                                               </ul>
+                                           </li>
+                                           <li><a href="">Language Courses</a></li>
+                                           <li><a href="">Non Collegiate</a></li>
+    
+                                             </ul>
+    
+                                             
+    
+    
+    
+                                      </li>
+                                      <li class="dropdown-submenu"><a href="#">Departments <span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+                                                                                  <li><a href="#">Science                                          <span class="caret"></span>
+                                                                                      </a>
+                                            <ul class="dropdown-menu"><li><a href="">Botany</a></li><li><a href="">Chemistry</a></li>
+                                                                                  <li><a href="#">Arts &amp; Commerce                                          <span class="caret"></span>
+                                                                                      </a>
+                                            <ul class="dropdown-menu"><li><a href="">Commerce</a></li><li><a href="">Economics</a></li>
+                                                                            </ul>
+                                    </li>
+                                      <li class="dropdown-submenu"><a href="#">Faculty <span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+                                                                                  <li><a href="#">Science                                          <span class="caret"></span>
+                                                                                      </a>
+                                            <ul class="dropdown-menu"><li><a href="https://www.hansrajcollege.ac.in/department/1/faculty">Botany</a></li><li><a href="https://www.hansrajcollege.ac.in/department/3/faculty">Chemistry</a></li><li><a href="https://www.hansrajcollege.ac.in/department/2/faculty">Computer Science</a></li><li><a href="https://www.hansrajcollege.ac.in/department/4/faculty">Electronics</a></li><li><a href="https://www.hansrajcollege.ac.in/department/5/faculty">Mathematics</a></li><li><a href="https://www.hansrajcollege.ac.in/department/6/faculty">Physics</a></li><li><a href="https://www.hansrajcollege.ac.in/department/7/faculty">Zoology</a></li></ul>                                      </li>
+                                                                                  <li><a href="#">Arts &amp; Commerce                                          <span class="caret"></span>
+                                                                                      </a>
+                                            <ul class="dropdown-menu"><li><a href="https://www.hansrajcollege.ac.in/department/8/faculty">Commerce</a></li><li><a href="https://www.hansrajcollege.ac.in/department/9/faculty">Economics</a></li><li><a href="https://www.hansrajcollege.ac.in/department/10/faculty">English</a></li><li><a href="https://www.hansrajcollege.ac.in/department/11/faculty">Hindi</a></li><li><a href="https://www.hansrajcollege.ac.in/department/12/faculty">History</a></li><li><a href="https://www.hansrajcollege.ac.in/department/13/faculty">Philosophy</a></li><li><a href="https://www.hansrajcollege.ac.in/department/15/faculty">Physical Education</a></li><li><a href="https://www.hansrajcollege.ac.in/department/14/faculty">Sanskrit</a></li></ul>                                      </li>
+                                          
+                                                                            </ul>
+                                    </li>
+                                    <li>
+                                        <a target="_blank" href="https://www.hansrajcollege.ac.in/files/academic_calendar/04092020_AcademicCalender.pdf">
+                                          Academic Calendar
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.hansrajcollege.ac.in/academics/addoncourses">
+                                          Add-on Courses
+                                        </a>
+                                    </li>
+    
+    
+                                    </ul>
+    
+                            </li>
+    
+                                                     <li class="nav-item active dropdown">
+    
+                    
+                           
+    
+                           
+    
+                   
+                                  
+    
+    
+              <li class="nav-item active dropdown">
+    
+                    <a class="nav-link dropdown-toggle" href="javascript:void(0)" title="IIC">IIC</a>
+                                <ul class="dropdown-menu">
+                                    <li><a tabindex="-1" href="https://www.hansrajcollege.ac.in/iic/about-iic">About IIC</a></li>
+                                    <li><a tabindex="-1" href="https://www.hansrajcollege.ac.in/iic/focus">Focus</a></li>
+                                    <li><a tabindex="-1" href="https://www.hansrajcollege.ac.in/iic/members">Members</a></li>
+                                    <li><a tabindex="-1" href="https://www.hansrajcollege.ac.in/iic/functions">Functions</a></li>
+                                    <li><a tabindex="-1" href="https://www.hansrajcollege.ac.in/iic/meeting-minutes">Meeting Minutes</a></li>
+                                    <li><a tabindex="-1" href="https://www.hansrajcollege.ac.in/iic/annual-calendar">Annual Calendar</a></li>
+                                    <li><a tabindex="-1" href="https://www.hansrajcollege.ac.in/iic/call-for-proposals">Call For Proposals</a></li>
+    
+                     </ul>
+    
+                            </li>
+    
+                             <li class="nav-item active dropdown">
+    
+              <a class="nav-link dropdown-toggle" href="javascript:void(0)" title="NIRF">NIRF</a>
+                                <ul class="dropdown-menu">
+                                    <li><a tabindex="-1" href="https://www.hansrajcollege.ac.in/nirf/nirf2018">NIRF 2018</a></li>
+                                    <li><a tabindex="-1" href="https://www.hansrajcollege.ac.in/nirf/nirf2019">NIRF 2019</a></li>
+                                    <li><a tabindex="-1" href="https://www.hansrajcollege.ac.in/nirf/nirf2020">NIRF 2020</a></li>
+                                    <li><a tabindex="-1" href="https://www.hansrajcollege.ac.in/nirf/nirf2021">NIRF 2021</a></li>
+    
+    
+              </ul>
+    
+                            </li>
+    
+    
+    
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <!-- Navigation End -->
+            <!--<div class="head-menu-marquee">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-md-12">
+                    <marquee width="100%" direction="left" >
+                      <a href="https://rashtragaan.in/" target="_blank">Contribute your rendering of the National Anthem of India at : https://rashtragaan.in/</a>
+                    </marquee>
+                  </div>
+                </div>
+              </div>
+            </div>-->
+        </header><!--Header End-->
+        <script>
+            $('#topmenu li[url-title="index"]').addClass('active');
+        </script>
+        <div class="clear"></div>
+    <style>
+         .carousel-control-prev-icon {
+            background: url('https://www.hansrajcollege.ac.in/assets/images/prev.png');
+        }
+        .carousel-control-prev,.carousel-control-next{
+            display: none;
+        }
+        .announcement-box{
+            background-color: rgba(255,255,255,0.7);
+            z-index: 99;
+        }
+        @media screen and (min-width: 600px) {
+          .announcement-box{
+            position: absolute;
+            right: 5%;
+            top: 5%;
+          }
+    
+            .announcement-box {
+                background-color: rgba(0,0,0,0.3);
+                width: 300px;
+            }
+            .announcement-box li a{
+                color: #fff;
+            }
+            .principal-desk-container{
+                height: 580px;
+            }
+        }
+        .principal-desk-container{
+            border:1px solid #b04400;
+            padding: 15px;
+            background:#fff;
+            box-shadow : 0 3px 10px 0 rgba(0,0,0,0.20);
+        }
+        .principal-desk-container .image-container{
+            width: 100%;
+            text-align: center;
+        }
+        .principal-desk-container .image-container .image{
+            width: 300px;
+            height: 201px;
+            margin: auto;
+            margin-bottom:10px;
+            overflow: hidden;
+            <!--border-radius: 50%;-->
+        }
+        .principal-desk-container h2 {
+            color: #b04400;
+            font-size: 16px;
+            font-family: 'open_sansbold';
+            text-transform: uppercase;
+            margin-bottom: 25px;
+            position: relative;
+        }
+        .crcile-box:hover .sprite , .crcile-box:hover .sprite2 {
+            filter: grayscale(1) invert(1);
+        }
+        .crcile-box:hover span{
+            color: #fff;
+        }
+        .crcile-box:hover {
+            background-color: #b04400;
+            transition: 0.6s;
+        }
+        .crcile-box:hover .crcile{
+            border-color: #fff;
+        }
+        .crcile-box {
+            <!--background-color: #efc600;-->
+            transition: 0.6s;
+            margin-bottom: 0;
+            padding: 11px;
+            height: 180px;
+            border-radius: 4px;
+        }
+        .crcile{
+            border: 3px solid #b04400;
+        }
+    </style>
+        <!-- Banner Slider Start -->
+    <section id="banner">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="">
+                <div></div>
+            </li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1" class="">
+                <div></div></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2" class="">
+                    <div></div></li>
+                     <li data-target="#carouselExampleIndicators" data-slide-to="3" class="">
+                    <div></div></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="4" class="active">
+                <div></div></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="https://www.bing.com/images/search?view=detailV2&ccid=ZNaPju8f&id=13472E5C23C15C90358C341B0F1367942A642E38&thid=OIP.ZNaPju8fiHNYr1AmFIyrbAHaH6&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.64d68f8eef1f887358af5026148cab6c%3frik%3dOC5kKpRnEw8bNA%26riu%3dhttp%253a%252f%252f2.bp.blogspot.com%252f-4uL0a2B2c0A%252fUSo19Xjlm4I%252fAAAAAAAAAME%252fRsqK7dvJqFg%252fs1600%252fbharatanatyam_012.jpg%26ehk%3d2pv5Y7lS%252frBtKp2RPnFlzh6SmObS5lL1HbdBNkf9dr4%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1600&expw=1498&q=Indian+Dance+Styles&simid=608043906121562717&FORM=IRPRST&ck=664B6FA786C9E29F251765C2E1D9B8FA&selectedIndex=11" alt="First slide">
+                        <div class="carousel-caption d-none ">
+                            <h5>One of the largest constituent Colleges of the University of Delhi</h5>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="https://www.hansrajcollege.ac.in/assets/front/images/slider/banner-img1.jpg" alt="First slide">
+                        <div class="carousel-caption d-none ">
+                            <h5>One of the largest constituent Colleges of the University of Delhi</h5>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                      <img class="d-block w-100" src="https://www.hansrajcollege.ac.in/assets/front/images/slider/banner-img2.jpg" alt="Second slide">
+                      <div class="carousel-caption d-none ">
+                        <h5>One of the largest constituent Colleges of the University of Delhi</h5>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="https://www.hansrajcollege.ac.in/assets/front/images/slider/banner-img3.jpg" alt="Third slide">
+                  <div class="carousel-caption d-none ">
+                    <h5>One of the largest constituent Colleges of the University of Delhi</h5>
+                </div>
+            </div>
+            <div class="carousel-item active">
+                  <img class="d-block w-100" src="https://www.hansrajcollege.ac.in/assets/front/images/slider/banner-img4.jpg" alt="Third slide">
+                  <div class="carousel-caption d-none">
+                    <h5>One of the largest constituent Colleges of the University of Delhi</h5>
+                </div>
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+        <!-- Marquee up -->
+        <div class="announcement-box">
+            <h2>Announcements</h2>
+            <div class="vert simply-scroll-container"><div class="simply-scroll-clip"><div class="simply-scroll-list" style="height: 1532px;"><ul class="simply-scroll-list" style="height: 766px;">
+                              <li class="new"><a target="_BLANK" href="">Notice Regarding Teaching Posts in Mathematics</a></li>
+                                         <li class="new"><a target="_BLANK" href="">Online Fee Payment Notice - 2nd &amp; 3rd Year - UG/PG Students</a></li>
+                                        
+                                         
+                                         <li class="new"><a target="_BLANK" href="">Fee Notice</a></li>
+                                
+                                         
+                                         <li class="new"><a target="_BLANK" href="">Sep 18 - Webinar on Mitigating Global Warming and Climate Change</a></li>
+                                         <
+                                         
+                                         
+            </ul><ul class="simply-scroll-list" style="height: 766px;">
+                              <li class="new"><a target="_BLANK" href="">Notice Regarding Teaching Posts in Mathematics</a></li>
+                                         <li class="new"><a target="_BLANK" href="">Online Fee Payment Notice - 2nd &amp; 3rd Year - UG/PG Students</a></li>
+                                         <li class="new"><a target="_BLANK" href="">Sep 22 - Webinar on 'Gender Sensitization and POSH'</a></li>
+                                         <li class="new"><a target="_BLANK" href="">Notice Regarding Teaching Posts in Economics</a></li>
+                                         
+                                         
+                                        
+                                         <li class="new"><a target="_BLANK" href="">Saahitya se samvedna tak ka safar - 14th to 18th Sep 2021</a></li>
+                                         
+                        
+            </ul></div></div></div>
+            <a href="" class="viewall" title="View All">View All</a>
+        </div>
+        <!-- End Marquee  -->
+    </div>
+    </section>
+    <!-- Banner Slider End -->
+    
+    <!-- Announcement Start -->
+    <section id="announcement">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-12 col-sm-12 col-12">
+                    <div class="row">
+    
+                        <div class="col-md-3 col-sm-6 col-12 text-center p-2">
+                            <div class="crcile-box">
+    
+                                <a href="">
+                                    <div class="crcile">
+                                        <span class="sprite payment"></span>
+                                    </div>
+                                    <span style="display: block;">Online Fee Payment</span>
+                                </a>
+                            </div>
+                        </div>
+                        <
+    
+                                <a target="_blank" href="">
+                                    <div class="crcile">
+                                        <span class="sprite growth"></span>
+                                    </div>
+                                    <span style="display: block;">Mahatma Hansraj FDC</span>
+                                </a>
+                            </div>
+                        </div>
+                       
+    
+                     
+                        
+                       
+                      
+                        <div class="col-md-3 col-sm-6 col-12 text-center p-2">
+                            <div class="crcile-box">
+    
+                        <a href="">
+                            <div class="crcile">
+                                <span class="sprite university"></span>
+                            </div>
+                            <span style="display: block;">Societies</span>
+                            </a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-12 text-center p-2">
+                            <div class="crcile-box">
+    
+                            <a href="">
+                            <div class="crcile">
+                                <span class="sprite community"></span>
+                            </div>
+                            <span style="display: block;">Equal Opportunity Cell</span>
+                            </a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-12 text-center p-2">
+                            <div class="crcile-box">
+    
+                            <a href="">
+                            <div class="crcile">
+                                <span class="sprite2 jobopportunity"></span>
+                            </div>
+                            <span style="display: block;">Job Opportunities</span>
+                            </a>
+                            </div>
+                        </div>
+                        
+                               
+                                </a>
+                            </div>
+                        </div>
+                    </div> 
+                </div>
+                <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+                    <div class="principal-desk-container">
+                        <h2>From Principal's Desk</h2>
+                        <div class="image-container">
+                            <div class="image">
+                                <img style="width: 100%;" src="https://www.hansrajcollege.ac.in/assets/front/images/principaldesk.jpg">
+                            </div>
+                        </div>
+                        <div class="content">
+                            <p style="text-align: justify;"> Greetings from the Principal of Hansraj College! As a premier institution of higher education, Hansraj College offers its students a unique blend of modern education anchored in hallowed Vedic values. The college is guided in its mission of combining the best of tradition and modernity by the vision of Mahatma Hans Raj. It is in the memory of Mahatma ji, a pioneer in the field of education, that the D.A.V. College Management Committee had founded the college on 26th July, 1948. The college has been contributing to the solemn task of nation-building since its very inception. .... <a href="https://www.hansrajcollege.ac.in/about/principaldesk" class="btn btn-primary" style="padding: 2px 10px;font-size: 12px;">Read More</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Announcement End -->
+    
+    <!-- Photo Gallery Start-->
+    
+    
+    <section id="photogallery">
+        <h2>Gallery</h2>
+           <div class="container">
+            <ul id="gallery" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
+              
+                <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 5022px; left: 0px; display: block;"><div class="owl-item active" style="width: 279px;"><li>
+                    <a href="javascript:void(0)" onclick="$(this).parent().find('.first-img').trigger('click');">
+                        <img src="https://www.hansrajcollege.ac.in/hCPanel/albumImage/22/original/bc8979ca9c30460b32592afe54156ad9.jpg">
+                        <p class="album-label">Hindi Diwas - Vigyan Bhawan</p>
+                    </a>
+                    <div class="lggallery d-none">
+                                        <a href="https://www.hansrajcollege.ac.in/hCPanel/albumImage/22/original/bc8979ca9c30460b32592afe54156ad9.jpg" class="first-img">
+                        <img src="https://www.hansrajcollege.ac.in/hCPanel/albumImage/22/original/bc8979ca9c30460b32592afe54156ad9.jpg">
+                      </a>
+                                      <a href="https://www.hansrajcollege.ac.in/hCPanel/albumImage/22/original/54e1d3523f53ebccb6eb7732511c3e80.jpg" class="">
+                        <img src="https://www.hansrajcollege.ac.in/hCPanel/albumImage/22/original/54e1d3523f53ebccb6eb7732511c3e80.jpg">
+                      </a>
+                                      <a href="https://www.hansrajcollege.ac.in/hCPanel/albumImage/22/original/048f8288f20e6bb0f174b9a6ae58581b.jpg" class="">
+                        <img src="https://www.hansrajcollege.ac.in/hCPanel/albumImage/22/original/048f8288f20e6bb0f174b9a6ae58581b.jpg">
+                      
+                                    </div>
+                </li></div><div class="owl-item" style="width: 279px;"><li>
+                    <a href="javascript:void(0)" onclick="$(this).parent().find('.first-img').trigger('click');">
+                        <img src="https://www.hansrajcollege.ac.in/hCPanel/albumImage/18/original/f1d638398761d55d02be3d713ccf12d0.jpg">
+                        <p class="album-label">Yagya</p>
+                    </a>
+                    <div class="lggallery d-none">
+                                        <a href="https://www.hansrajcollege.ac.in/hCPanel/albumImage/18/original/f1d638398761d55d02be3d713ccf12d0.jpg" class="first-img">
+                        <img src="https://www.hansrajcollege.ac.in/hCPanel/albumImage/18/original/f1d638398761d55d02be3d713ccf12d0.jpg">
+                     
+                </li></div><div class="owl-item" style="width: 279px;"><li>
+                    <a href="javascript:void(0)" onclick="$(this).parent().find('.first-img').trigger('click');">
+                        <img src="https://www.hansrajcollege.ac.in/hCPanel/albumImage/14/original/638c2a35518c569790485756d30d0ad1.jpg">
+                        <p class="album-label">NCC</p>
+                    </a>
+                    <div class="lggallery d-none">
+                                        <a href="https://www.hansrajcollege.ac.in/hCPanel/albumImage/14/original/638c2a35518c569790485756d30d0ad1.jpg" class="first-img">
+                        <img src="https://www.hansrajcollege.ac.in/hCPanel/albumImage/14/original/638c2a35518c569790485756d30d0ad1.jpg">
+                      
+                                    </div>
+                </li></div><div class="owl-item" style="width: 279px;"><li>
+                    <a href="javascript:void(0)" onclick="$(this).parent().find('.first-img').trigger('click');">
+                        <img src="https://www.hansrajcollege.ac.in/hCPanel/albumImage/13/original/8a1ad7f2fc442ae2695859f1838ed8c5.jpg">
+                        <p class="album-label">Cultural</p>
+                    </a>
+                    <div class="lggallery d-none">
+                                        <a href="https://www.hansrajcollege.ac.in/hCPanel/albumImage/13/original/8a1ad7f2fc442ae2695859f1838ed8c5.jpg" class="first-img">
+                        <img src="https://www.hansrajcollege.ac.in/hCPanel/albumImage/13/original/8a1ad7f2fc442ae2695859f1838ed8c5.jpg">
+                      </a>
+                                      <a href="https://www.hansrajcollege.ac.in/hCPanel/albumImage/13/original/be6e1b88a74215a0067cfecd7e0c4417.jpg" class="">
+                        <img src="https://www.hansrajcollege.ac.in/hCPanel/albumImage/13/original/be6e1b88a74215a0067cfecd7e0c4417.jpg">
+                      </a>
+                                      
+                                    </div>
+                </li></div></div></div>
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+            <div class="owl-controls clickable"><div class="owl-buttons"><div class="owl-prev">prev</div><div class="owl-next">next</div></div></div></ul>
+        </div>
+    </section>
+    <footer id="FooterWraper" class="text-center">
+    
+    
+    
+    <iframe src="https://hansrajcollege.os.tc/webPushIframe" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation" style="display: none;"></iframe><div id="onesignal-bell-container" class="onesignal-bell-container onesignal-reset onesignal-bell-container-bottom-right"><div id="onesignal-bell-launcher" class="onesignal-bell-launcher onesignal-bell-launcher-md onesignal-bell-launcher-bottom-right onesignal-bell-launcher-theme-default onesignal-bell-launcher-active" style="bottom: 15px; right: 15px;"><div class="onesignal-bell-launcher-button"><svg class="onesignal-bell-svg" xmlns="http://www.w3.org/2000/svg" width="99.7" height="99.7" viewBox="0 0 99.7 99.7" style="filter: drop-shadow(0 2px 4px rgba(34,36,38,0.35));; -webkit-filter: drop-shadow(0 2px 4px rgba(34,36,38,0.35));;"><circle class="background" cx="49.9" cy="49.9" r="49.9" style="fill: rgb(229, 75, 77);"></circle><path class="foreground" d="M50.1 66.2H27.7s-2-.2-2-2.1c0-1.9 1.7-2 1.7-2s6.7-3.2 6.7-5.5S33 52.7 33 43.3s6-16.6 13.2-16.6c0 0 1-2.4 3.9-2.4 2.8 0 3.8 2.4 3.8 2.4 7.2 0 13.2 7.2 13.2 16.6s-1 11-1 13.3c0 2.3 6.7 5.5 6.7 5.5s1.7.1 1.7 2c0 1.8-2.1 2.1-2.1 2.1H50.1zm-7.2 2.3h14.5s-1 6.3-7.2 6.3-7.3-6.3-7.3-6.3z" style="fill: rgb(255, 255, 255);"></path><ellipse class="stroke" cx="49.9" cy="49.9" rx="37.4" ry="36.9" style="stroke: rgb(255, 255, 255);"></ellipse></svg></div><div class="onesignal-bell-launcher-badge" style="filter: drop-shadow(0 2px 4px rgba(34,36,38,0));; -webkit-filter: drop-shadow(0 2px 4px rgba(34,36,38,0));;"></div><div class="onesignal-bell-launcher-message"><div class="onesignal-bell-launcher-message-body"></div></div><div class="onesignal-bell-launcher-dialog" style="filter: drop-shadow(0px 2px 2px rgba(34,36,38,.15));; -webkit-filter: drop-shadow(0px 2px 2px rgba(34,36,38,.15));;"><div class="onesignal-bell-launcher-dialog-body"></div></div></div></div></body></html>  
+</body>
+</html>
